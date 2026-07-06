@@ -1,0 +1,13 @@
+FINAL SUBMISSION CHECKLIST
+==========================
+
+1. Upload outputs/part1_obb_demo.mp4 to Google Drive.
+2. Upload outputs/part2_packing_demo.mp4 to Google Drive.
+3. For both files, choose Share -> General access -> Anyone with the link -> Viewer.
+4. Open each shared link in an incognito/private window to confirm access.
+5. Send both links to the employer.
+6. Attach 3d_assignment_submission.zip if source code is requested or accepted.
+
+Optional literal desktop recording:
+Run `bash run_all.sh` with the terminal visible and record the screen. The scripts
+already generate and display the same validated outputs included in the MP4 files.

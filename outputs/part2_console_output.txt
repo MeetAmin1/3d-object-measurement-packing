@@ -1,0 +1,33 @@
+Reading item list: data/Item List.json
+Loaded 20 items
+
+GRAVITY-AWARE 3D PACKING SOLUTION
+------------------------------------------------------------------------------------------------
+ ID Type             Position (x,y,z)    Size (dx,dy,dz)       Top
+------------------------------------------------------------------------------------------------
+  4 flat_panel       (  0,  0,  0)       ( 50, 50, 10)          10
+  5 flat_panel       ( 50,  0,  0)       ( 50, 50, 10)          10
+  8 large_crate      (  0, 50,  0)       ( 30, 30, 30)          30
+  9 large_crate      ( 30, 50,  0)       ( 30, 30, 30)          30
+ 20 flat_box         (  0,  0, 10)       ( 25, 25, 10)          20
+  6 long_beam        ( 25,  0, 10)       ( 60, 10, 10)          20
+  7 long_beam        (  0,  0, 20)       ( 60, 10, 10)          30
+ 18 long_box         ( 85,  0, 10)       ( 10, 40, 10)          20
+ 19 long_box         ( 85,  0, 20)       ( 10, 40, 10)          30
+  1 standard_box     ( 25, 10, 10)       ( 20, 20, 20)          30
+  2 standard_box     ( 45, 10, 10)       ( 20, 20, 20)          30
+  3 standard_box     ( 65, 10, 10)       ( 20, 20, 20)          30
+ 10 medium_cube      (  0, 25, 10)       ( 15, 15, 15)          25
+ 11 medium_cube      ( 15, 30, 10)       ( 15, 15, 15)          25
+ 12 medium_cube      ( 30, 30, 10)       ( 15, 15, 15)          25
+ 13 medium_cube      ( 45, 30, 10)       ( 15, 15, 15)          25
+ 14 small_filler     (  0, 25, 25)       (  5,  5,  5)          30
+ 15 small_filler     (  5, 25, 25)       (  5,  5,  5)          30
+ 16 small_filler     ( 10, 25, 25)       (  5,  5,  5)          30
+ 17 small_filler     (  0, 30, 25)       (  5,  5,  5)          30
+------------------------------------------------------------------------------------------------
+Overlap-free: True | Fully supported: True
+Occupied bounds: [100, 80, 30] | Maximum height: 30
+Height lower bound: 30 | Height-optimal: True
+Master-box utilization: 16.825%
+Occupied-envelope utilization: 70.104%

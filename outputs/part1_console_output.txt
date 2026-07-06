@@ -1,0 +1,18 @@
+Reading: data/CUBE.obj
+  loaded 103,536 vertices and 34,512 faces
+  OBB dimensions = 13.055800 x 13.055800 x 12.525200; volume = 2134.969531
+Reading: data/CYLINDER.obj
+  loaded 41,664 vertices and 13,888 faces
+  OBB dimensions = 3.999100 x 3.896809 x 3.896570; volume = 60.723094
+Reading: data/TEAPOT.obj
+  loaded 27,648 vertices and 9,216 faces
+  OBB dimensions = 2.408144 x 1.981797 x 1.643195; volume = 7.842072
+
+ORIENTED BOUNDING BOX RESULTS
+------------------------------------------------------------------------------------------------
+File                   Length        Width       Height          Volume     Vertices
+------------------------------------------------------------------------------------------------
+CUBE.obj            13.055800    13.055800    12.525200     2134.969531      103,536
+CYLINDER.obj         3.999100     3.896809     3.896570       60.723094       41,664
+TEAPOT.obj           2.408144     1.981797     1.643195        7.842072       27,648
+------------------------------------------------------------------------------------------------

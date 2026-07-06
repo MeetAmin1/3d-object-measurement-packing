@@ -1,0 +1,16 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# Temporary verification videos
+outputs/*_check.mp4
+
+# Local packaged archive
+*.zip
+
+# Employer-provided assignment document
+Assignment Details.pdf
+reference/Assignment Details.pdf

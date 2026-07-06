@@ -1,0 +1,5 @@
+PASS: All full-mesh vertices lie inside their reported OBB
+PASS: OBB extents and volumes are internally consistent
+PASS: Part 2 contains all 20 items
+PASS: All items are in bounds, overlap-free, and fully supported
+PASS: Maximum height 30 equals lower bound 30

@@ -1,0 +1,230 @@
+{
+  "master_box": [
+    100,
+    100,
+    100
+  ],
+  "placements": [
+    {
+      "id": 4,
+      "type": "flat_panel",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "dx": 50,
+      "dy": 50,
+      "dz": 10
+    },
+    {
+      "id": 5,
+      "type": "flat_panel",
+      "x": 50,
+      "y": 0,
+      "z": 0,
+      "dx": 50,
+      "dy": 50,
+      "dz": 10
+    },
+    {
+      "id": 8,
+      "type": "large_crate",
+      "x": 0,
+      "y": 50,
+      "z": 0,
+      "dx": 30,
+      "dy": 30,
+      "dz": 30
+    },
+    {
+      "id": 9,
+      "type": "large_crate",
+      "x": 30,
+      "y": 50,
+      "z": 0,
+      "dx": 30,
+      "dy": 30,
+      "dz": 30
+    },
+    {
+      "id": 20,
+      "type": "flat_box",
+      "x": 0,
+      "y": 0,
+      "z": 10,
+      "dx": 25,
+      "dy": 25,
+      "dz": 10
+    },
+    {
+      "id": 6,
+      "type": "long_beam",
+      "x": 25,
+      "y": 0,
+      "z": 10,
+      "dx": 60,
+      "dy": 10,
+      "dz": 10
+    },
+    {
+      "id": 7,
+      "type": "long_beam",
+      "x": 0,
+      "y": 0,
+      "z": 20,
+      "dx": 60,
+      "dy": 10,
+      "dz": 10
+    },
+    {
+      "id": 18,
+      "type": "long_box",
+      "x": 85,
+      "y": 0,
+      "z": 10,
+      "dx": 10,
+      "dy": 40,
+      "dz": 10
+    },
+    {
+      "id": 19,
+      "type": "long_box",
+      "x": 85,
+      "y": 0,
+      "z": 20,
+      "dx": 10,
+      "dy": 40,
+      "dz": 10
+    },
+    {
+      "id": 1,
+      "type": "standard_box",
+      "x": 25,
+      "y": 10,
+      "z": 10,
+      "dx": 20,
+      "dy": 20,
+      "dz": 20
+    },
+    {
+      "id": 2,
+      "type": "standard_box",
+      "x": 45,
+      "y": 10,
+      "z": 10,
+      "dx": 20,
+      "dy": 20,
+      "dz": 20
+    },
+    {
+      "id": 3,
+      "type": "standard_box",
+      "x": 65,
+      "y": 10,
+      "z": 10,
+      "dx": 20,
+      "dy": 20,
+      "dz": 20
+    },
+    {
+      "id": 10,
+      "type": "medium_cube",
+      "x": 0,
+      "y": 25,
+      "z": 10,
+      "dx": 15,
+      "dy": 15,
+      "dz": 15
+    },
+    {
+      "id": 11,
+      "type": "medium_cube",
+      "x": 15,
+      "y": 30,
+      "z": 10,
+      "dx": 15,
+      "dy": 15,
+      "dz": 15
+    },
+    {
+      "id": 12,
+      "type": "medium_cube",
+      "x": 30,
+      "y": 30,
+      "z": 10,
+      "dx": 15,
+      "dy": 15,
+      "dz": 15
+    },
+    {
+      "id": 13,
+      "type": "medium_cube",
+      "x": 45,
+      "y": 30,
+      "z": 10,
+      "dx": 15,
+      "dy": 15,
+      "dz": 15
+    },
+    {
+      "id": 14,
+      "type": "small_filler",
+      "x": 0,
+      "y": 25,
+      "z": 25,
+      "dx": 5,
+      "dy": 5,
+      "dz": 5
+    },
+    {
+      "id": 15,
+      "type": "small_filler",
+      "x": 5,
+      "y": 25,
+      "z": 25,
+      "dx": 5,
+      "dy": 5,
+      "dz": 5
+    },
+    {
+      "id": 16,
+      "type": "small_filler",
+      "x": 10,
+      "y": 25,
+      "z": 25,
+      "dx": 5,
+      "dy": 5,
+      "dz": 5
+    },
+    {
+      "id": 17,
+      "type": "small_filler",
+      "x": 0,
+      "y": 30,
+      "z": 25,
+      "dx": 5,
+      "dy": 5,
+      "dz": 5
+    }
+  ],
+  "metrics": {
+    "valid": true,
+    "item_count": 20,
+    "grid_step": 5,
+    "occupied_bounds": [
+      100,
+      80,
+      30
+    ],
+    "item_volume": 168250,
+    "master_box_volume": 1000000,
+    "master_volume_utilization": 0.16825,
+    "occupied_envelope_volume": 240000,
+    "occupied_envelope_utilization": 0.7010416666666667,
+    "maximum_height": 30,
+    "height_lower_bound": 30,
+    "height_is_optimal": true,
+    "all_items_in_bounds": true,
+    "overlap_free": true,
+    "fully_supported": true
+  }
+}
