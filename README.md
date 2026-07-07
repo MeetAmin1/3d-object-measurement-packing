@@ -53,18 +53,3 @@ The solver automatically derives a 5-unit grid from the greatest common divisor 
 6. Minimizes maximum occupied height first, then occupied envelope volume and footprint.
 
 For the supplied list, the solution uses an occupied envelope of `100 x 80 x 30`. Its maximum height is 30, equal to the lower bound caused by the 30 x 30 x 30 crates, so the height is optimal. All 20 items are inside the master box, overlap-free, and fully supported.
-
-## What to upload
-
-Upload these two files to Google Drive and set **General access -> Anyone with the link -> Viewer**:
-
-- `outputs/part1_obb_demo.mp4`
-- `outputs/part2_packing_demo.mp4`
-
-Also attach the complete ZIP/source package if the employer accepts code submissions.
-
-## Tests
-
-```bash
-python -m unittest discover -s tests -v
-```
